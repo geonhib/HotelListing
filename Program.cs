@@ -37,7 +37,7 @@ try
 
     app.UseHttpsRedirection();
 
-    app.UseAuthorization();
+    app.UseAuthorization(); 
 
     app.MapControllers();
 
@@ -46,7 +46,7 @@ try
 }
 catch (Exception ex)
 {
-    Log.Information("Application failed to start", ex);
+    Log.Fatal("Application failed to start", ex);
 }
 finally
 {
