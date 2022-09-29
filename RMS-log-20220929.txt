@@ -1,0 +1,14 @@
+2022-09-29 10:41:02.877 +03:00 [INF] Now listening on: https://localhost:7140
+2022-09-29 10:41:02.926 +03:00 [INF] Now listening on: http://localhost:5140
+2022-09-29 10:41:02.935 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-29 10:41:02.937 +03:00 [INF] Hosting environment: Development
+2022-09-29 10:41:02.940 +03:00 [INF] Content root path: D:\gym\dotnet\hotel\HotelListing\
+2022-09-29 10:41:14.348 +03:00 [INF] Application is shutting down...
+2022-09-29 10:41:14.362 +03:00 [INF] Application shutdown
+2022-09-29 10:41:32.128 +03:00 [INF] Now listening on: https://localhost:7140
+2022-09-29 10:41:32.173 +03:00 [INF] Now listening on: http://localhost:5140
+2022-09-29 10:41:32.182 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-29 10:41:32.185 +03:00 [INF] Hosting environment: Development
+2022-09-29 10:41:32.187 +03:00 [INF] Content root path: D:\gym\dotnet\hotel\HotelListing\
+2022-09-29 10:45:10.547 +03:00 [INF] Application is shutting down...
+2022-09-29 10:45:10.564 +03:00 [INF] Application shutdown
